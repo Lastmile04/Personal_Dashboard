@@ -7,6 +7,19 @@ HTML5, and CSS3.
 
 ---
 
+##Screenshots
+-Mobile
+<img width="542" height="1206" alt="image" src="https://github.com/user-attachments/assets/ff6264dd-3a7d-4f8e-840f-df845e4b0d9a" />
+<img width="542" height="1206" alt="image" src="https://github.com/user-attachments/assets/873af81e-be3b-41bf-a53b-3b7717b891f0" />
+
+-1440p
+<img width="2520" height="1294" alt="{AC4D3DC2-8CAB-4789-AE36-45917E47F1AE}" src="https://github.com/user-attachments/assets/abef5288-adc2-47c5-b01d-b6ccbbeeb88d" />
+
+-1080p
+<img width="1845" height="883" alt="{F1DCF7F8-9939-472A-80C6-67850C352422}" src="https://github.com/user-attachments/assets/13797211-9622-4eaa-bc99-3bb4d4451405" />
+
+---
+
 ## Features
 
 - ✅ Add, edit, and delete tasks
